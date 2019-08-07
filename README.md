@@ -138,7 +138,7 @@ While working on this project, you will need to add the following files:
 * Following, this person should then send the link to their fork to everyone
   sitting at their table.
 
-  ![clone](http://ironboard-curriculum-content.s3.amazonaws.com/web-development/deploy-on-day-1/clone.png)
+  ![clone](https://curriculum-content.s3.amazonaws.com/web-development/deploy-on-day-1/clone.png)
 
 * Everyone at the table should [clone][] the repo from this fork using this link. Do not clone directly from learn-co-curriculum.
 
